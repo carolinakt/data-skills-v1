@@ -15,7 +15,7 @@ description: |
   This book ...
 url: https://psyteachr.github.io/data-skills-v1
 github-repo: psyteachr/data-skills-v1
-cover-image: images/logos/twitter_card.png
+cover-image: images/logos/logo.png
 apple-touch-icon: images/logos/apple-touch-icon.png
 apple-touch-icon-size: 180
 favicon: images/logos/favicon.ico
